@@ -1,9 +1,9 @@
 ---
-title: "Example: Embedding Matplotlib Images"
-date: 2019-04-17
+title: "What is happenning now in Austin and Chicago"
+date: 2022-12-18
 published: true
 tags: [dataviz, matplotlib]
-excerpt: "This is an example blog post that embeds a matplotlib image."
+excerpt: "This is an exploratory data analysis on census and scooter trip data in Austin and Chicago."
 toc: true
 toc_sticky: true
 read_time: false
