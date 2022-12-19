@@ -1,5 +1,5 @@
 ---
-title: "Welcome to GitHub Pages!"
+title: "Welcome to our scooter analysis!"
 date: 2019-04-18
 categories:
   - blog
@@ -8,23 +8,25 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are two main ways to make changes to your site:
+In this project, we will try to analyze and compare scooter usage in **Austin** and **Chicago**. We will try to find out whether commuters take scooters depending on the community attributes, usage of mobility modes, and peak hours.
 
-- Edit files within your in the browser at GitHub.com
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
+The reason we created the analytical model is that we want to better determine which areas in the same city have better scooter potential usage and whether there is a difference in the scooter population between cities. Through exploratory analysis of the e-scooter dataset in Austin and Chicago 2019, and the census tract-based analysis model, we will be able to help decision-makers to identify more valuable investment areas, and help planners further understand the motivation and behavioral characteristics of people using shared scooters.
 
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**To find more related news:** 
+- Find how Chicago government operate and Design its system!  
+[Scooter Sharing in Chicago]（https://www.chicago.gov/city/en/depts/cdot/supp_info/escooter-share-pilot-project.html）
+- Find how Austin government operate and Design its system!  
+[E-bikes and E-scooters on Austin Trails Pilot Program]（https://www.austintexas.gov/page/e-bikes-and-e-scooters-austin-trails-pilot-program）
 
-Jekyll also offers powerful support for code snippets:
+In this website, we are using **python** for our cool **data analysis**! Check it out and let's run this function:
 
 ```python
 def print_message(message):
   print(message)
 
-print_message("Welcome to GitHub Pages")
+print_message("Welcome to our scooter analysis! Let's begin!")
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
