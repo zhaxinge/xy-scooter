@@ -57,7 +57,7 @@ plugins:
 author:
   name: "Xinge Yiping Z"
   avatar:
-  bio: "We are students of Urban Spatial Analysis at the University of Pennsylvania, and we use very cool data analysis tools to analyze and study urban issues and provide data insights to government officials and city residents. If you care about urban micro mobility issues like we do, check out this very cool scooter analysis project!"
+  bio: "We are master students of **Urban Spatial Analysis** at the University of Pennsylvania, and we use very cool **data analysis** tools to analyze and study urban issues and provide data insights to government officials and city residents. If you care about urban **micro mobility** issues like we do, check out this very cool scooter analysis project!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
