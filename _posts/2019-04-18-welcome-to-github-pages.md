@@ -14,9 +14,9 @@ The reason we created the analytical model is that we want to better determine w
 
 **To find more related news:** 
 - Find how Chicago government operate and Design its system!  
-  [Scooter Sharing in Chicago](https://www.chicago.gov/city/en/depts/cdot/supp_info/escooter-share-pilot-project.html）
+  [Scooter Sharing in Chicago](https://www.chicago.gov/city/en/depts/cdot/supp_info/escooter-share-pilot-project.html)
 - Find how Austin government operate and Design its system!  
-  [E-bikes and E-scooters on Austin Trails Pilot Program](https://www.austintexas.gov/page/e-bikes-and-e-scooters-austin-trails-pilot-program）
+  [E-bikes and E-scooters on Austin Trails Pilot Program](https://www.austintexas.gov/page/e-bikes-and-e-scooters-austin-trails-pilot-program)
 
 In this website, we are using **python** for our cool **data analysis**! Check it out and let's run this function:
 
