@@ -1,4 +1,4 @@
-# Xy-scooter: final project for MUSA550
+# Xy-scooter: Final project for MUSA550
 
 ## TEAM: Xinge Zhang & Yiping Ying
 
