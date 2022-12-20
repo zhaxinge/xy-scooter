@@ -9,11 +9,11 @@ toc_sticky: true
 read_time: false
 ---
 
-# Section 1
+# Escooter trips in Austin and Chicago
 
 This is an example post. The posts are written in markdown.
 
-## Abandoned Cars
+# City context in Austin and Chicago
 
 Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
 
