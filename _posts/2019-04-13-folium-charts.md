@@ -8,16 +8,19 @@ toc: true
 toc_sticky: true
 ---
 
-
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+The increasing availability of e-scooters through **rental programs** and **shared mobility** services contributed to the increase in e-scooter popularity in 2019. Many cities now have e-scooter rental programs or shared mobility services that allow people to easily rent an e-scooter for a short period of time, making it easier for people to try out e-scooters and see if they are a good transportation option for them.
 
 ##  Text analysis of e-scooter user comments in Twitter 
+
+![twittertime]({{ site.url }}{{ site.baseurl }}/assets/images/twittertime.png)
+
+It can be seen from May, there was a wave of tweeting on twitter, and reached a peak around August, and then gradually decreasing, which may be related to people's reaction to the government's policy, but also may be due to the July-September climate is more suitable for scooter riding use.
 
 ###  Text wordcloud of tweets related to e-scooter in Chicago, 2019, in Twitter 
 
 ![chicago]({{ site.url }}{{ site.baseurl }}/assets/images/chicago.png)
 
-It can be seen that since June, with the release of the government's new scooter sharing information, there has been a wave of tweeting on Twitter, and the main concern of people in this information lies in helmets, parking, use, and other topics, which coincides with the Chicago government's pilot test report released in 2020, in the actual e- scooter use, people are mostly concerned about the safety of scooter travel, and a lot of complaints about scooter parking, including parked scooters occupy bike parking spaces, sidewalk space and so on.
+The main concern of people in this information lies in helmets, parking, use, and other topics, which coincides with the Chicago government's pilot test report released in 2020, in the actual e- scooter use, people are mostly concerned about the safety of scooter travel, and a lot of complaints about scooter parking, including parked scooters occupy bike parking spaces, sidewalk space and so on.
 
 ### Text wordcloud of tweets related to e-scooter in Austin, 2019, in Twitter 
 
