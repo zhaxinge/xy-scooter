@@ -19,7 +19,7 @@ read_time: false
 
 Chicago hourly scooter usage
 
-![austin_hour]({{ site.url }}{{ site.baseurl }}/assets/images/austin_hour.png)
+![austin_hourly]({{ site.url }}{{ site.baseurl }}/assets/images/austin_hourly.png)
 
 Austin hourly scooter usage
 
@@ -53,7 +53,6 @@ From previous studies, we can see that median age, transit mode choice, and hous
 
 ##  median age, transit mode choice, and household income in Chicago
 
-##  median age, transit mode choice, and household income in Austin
-Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+
+##  median age, transit mode choice, and household income in Austin
