@@ -3,7 +3,7 @@ title: "Secrets behind e-scooter usage"
 date: 2022-12-20
 published: true
 tags: [dataviz, twitter]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "Text mining and word cloud plotting with keyword 'scooter' on Twitter"
 toc: true
 toc_sticky: true
 ---
