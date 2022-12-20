@@ -2,17 +2,16 @@
 title: "What is happenning now in Austin and Chicago"
 date: 2022-12-20
 published: true
-tags: [dataviz, matplotlib,altair]
+tags: [dataviz, matplotlib, altair]
 excerpt: "This is an exploratory data analysis on census and scooter trip data in Austin and Chicago."
 altair-loader:
-  altair-chart-1: "charts/income_age_chicago2.json"
+  altair-chart-1: "charts/income_age_chicago.json"
   altair-chart-2: "charts/Austin_age_income.json"
 toc: true
 toc_sticky: true
 read_time: false
 ---
 
-## Escooter trips in Austin and Chicago
 
 ### When will people use scooters?
 
@@ -52,16 +51,17 @@ Scooter usage in Chicago is different from that in Austin. Generally, in Austin,
 
 ## City context in Austin and Chicago
 
-From previous studies, we can see that median age, transit mode choice, and household income are most likely to influence whether people choose to use scooter to travel, so here we compare and analyze the context of median age and income in the two places.
+From previous studies, we can see that median age, transit mode choice, and household income are most likely to influence whether people choose to use scooter to travel, so here we compare and analyze the context of income in the two places.
 
-###  Age and transit mode choice in Chicago
+###  Income and transit mode choice in Chicago
 
 <div id="altair-chart-1"></div>
 
-###  Age and transit mode choice in Austin
+###  Income and transit mode choice in Austin
 
 <div id="altair-chart-2"></div>
 
 
+From the chart, we can see that compared to Chicago, Austin's population is relatively concentrated. The population of Chicago is mainly in the age range of 30-45, and the income is mainly in the range of 20,000-40,000. The population of Austin is mainly in the age range of 30-40, and the income is mainly around 30,000.
 
-
+In terms of income and age composition, driving alone is still the main mode of travel, but there are still many people in Chicago who choose to walk and use public transportation, especially from the perspective of the main income groups in Chicago.
