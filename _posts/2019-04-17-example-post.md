@@ -6,7 +6,7 @@ tags: [dataviz, matplotlib,altair]
 excerpt: "This is an exploratory data analysis on census and scooter trip data in Austin and Chicago."
 altair-loader:
   altair-chart-1: "charts/income_age_chicago2.json"
-  altair-chart-2: "charts/Austin_mode.json"
+  altair-chart-2: "charts/Austin_age_income.json"
 toc: true
 toc_sticky: true
 read_time: false
