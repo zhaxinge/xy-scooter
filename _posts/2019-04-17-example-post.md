@@ -49,6 +49,10 @@ Austin Weekly scooter usage
 
 ## What do the scooter tracks look like?
 
+![chicago_scooter_line]({{ site.url }}{{ site.baseurl }}/assets/images/chicago_scooter_line.png)
+
+![austin_scooter_line]({{ site.url }}{{ site.baseurl }}/assets/images/austin_scooter_line.png)
+
 # City context in Austin and Chicago
 
 From previous studies, we can see that median age, transit mode choice, and household income are most likely to influence whether people choose to use scooter to travel, so here we compare and analyze the context of median age and income in the two places.
