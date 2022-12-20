@@ -12,9 +12,36 @@ read_time: false
 # Escooter trips in Austin and Chicago
 
 ## When will people use scooters?
+
 ### Hourly usage analysis
+
+![chicago_hour]({{ site.url }}{{ site.baseurl }}/assets/images/chicago_hour.png)
+
+Chicago hourly scooter usage
+
+![austin_hour]({{ site.url }}{{ site.baseurl }}/assets/images/austin_hour.png)
+
+Austin hourly scooter usage
+
 ### Daily usage analysis
+
+![chicago_daily]({{ site.url }}{{ site.baseurl }}/assets/images/chicago_daily.png)
+
+Chicago Daily scooter usage
+
+![austin_daily]({{ site.url }}{{ site.baseurl }}/assets/images/austin_daily.png)
+
+Austin Daily scooter usage
+
 ### Weekly usage analysis
+
+![chicago_weekly]({{ site.url }}{{ site.baseurl }}/assets/images/chicago_weekly.png)
+
+Chicago Weekly scooter usage
+
+![austin_weekly]({{ site.url }}{{ site.baseurl }}/assets/images/austin_weekly.png)
+
+Austin Weekly scooter usage
 
 ## Where will they use the scooter?
 
