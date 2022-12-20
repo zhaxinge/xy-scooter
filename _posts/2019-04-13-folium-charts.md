@@ -2,11 +2,8 @@
 title: "Secrets behind e-scooter usage"
 date: 2022-12-20
 published: true
-tags: [dataviz, folium]
+tags: [dataviz, twitter]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
-  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -14,14 +11,16 @@ toc_sticky: true
 
 This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
 
-##  text analysis of e-scooter user comments in Twitter 
+##  Text analysis of e-scooter user comments in Twitter 
 
-The shortest route between the Art Museum and the Liberty Bell:
+###  Text wordcloud of tweets related to e-scooter in Chicago, 2019, in Twitter 
 
-<div id="folium-chart-1"></div>
+![chicago]({{ site.url }}{{ site.baseurl }}/assets/images/chicago.png)
 
-## Percentage of Households without Internet
+It can be seen that since June, with the release of the government's new scooter sharing information, there has been a wave of tweeting on Twitter, and the main concern of people in this information lies in helmets, parking, use, and other topics, which coincides with the Chicago government's pilot test report released in 2020, in the actual e- scooter use, people are mostly concerned about the safety of scooter travel, and a lot of complaints about scooter parking, including parked scooters occupy bike parking spaces, sidewalk space and so on.
 
-<div id="folium-chart-2"></div>
+### Text wordcloud of tweets related to e-scooter in Austin, 2019, in Twitter 
 
-See the [lecture 9B slides](https://musa-550-fall-2022.github.io/slides/lecture-9B.html) and the [lecture 10A slides](https://musa-550-fall-2022.github.io/slides/lecture-10A.html) for the code that produced these plots.
+![austin]({{ site.url }}{{ site.baseurl }}/assets/images/austin.png)
+
+Among Austin's Twitter keywords, we can see a recurring keyword: SXSW, which is an annual conglomeration of parallel film, interactive media, and music festivals and conferences organized jointly that take place in mid-March in Austin, Texas, United States. Although this event was not covered in our study time, we can clearly see the relationship between scooter use and special city events through a word cloud. We can also see the discussion of scooter providers in the tweet buzzwords, including bird, Lyft, lime, etc., which may indicate that people are very concerned about the price of scooter trips. the keyword Everywhere may show the difficulty of parking scooters, etc.
