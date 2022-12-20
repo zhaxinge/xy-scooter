@@ -82,6 +82,6 @@ From the model run results and PCA analysis, the structure of cluster does exist
 
 <div id="hv-chart-5"></div>
 
-From the above figure, we can see that the difference between the data classified as 1 and the data classified as 0 and 2 is not obvious, except for the data classified as 1 and the data classified as 0 and 2, which means that the census tract in the training set of this data can be roughly divided into two classes. in addition, from the results of kmeans, the three clusters of In addition, from the results of kmeans, although the distribution range of the three clusters are similar but the relationship between the variables do differ, which means that we can try to classify censustract with the cluster method, and get the most likely to use scooter regional features
+From the above figure, we can see that the difference between the data classified as 1 and the data classified as 0 and 2 is not obvious, except for the data classified as 1 and the data classified as 0 and 2, which means that the census tract in the training set of this data can be roughly divided into two classes. In addition,  although the distribution range of the three clusters are similar, the relationship between the variables does differ, which means that we can try to classify census tract with the cluster method, and get the most likely to use scooter regional features.
 
 
