@@ -9,7 +9,7 @@ hv-loader:
   hv-chart-2: ["charts/chicago_import.html", "500"] 
   hv-chart-3: ["charts/heatmap.html", "500"] 
   hv-chart-4: ["charts/scatter_3d.html", "500"] 
-  hv-chart-5: ["charts/scatter_matrix.html", "500"] 
+  hv-chart-5: ["charts/scatter_matrix.html", "400"] 
 toc: false
 toc_sticky: false
 ---
