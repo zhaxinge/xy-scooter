@@ -1,6 +1,6 @@
 ---
-title: "Example: Embedding Folium charts"
-date: 2019-04-13
+title: "Secrets behind e-scooter usage"
+date: 2022-12-20
 published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
@@ -11,9 +11,10 @@ toc: true
 toc_sticky: true
 ---
 
+
 This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
 
-## OSMnx and Street Networks
+##  text analysis of e-scooter user comments in Twitter 
 
 The shortest route between the Art Museum and the Liberty Bell:
 
