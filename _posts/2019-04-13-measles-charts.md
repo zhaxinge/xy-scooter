@@ -2,12 +2,14 @@
 title: "Predictive e-scooter usage"
 date: 2020-12-20
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
-altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+tags: [dataviz, cluster analysis, hvplot, holoviews]
+excerpt: "Understanding the key features which determine e-scooter usage."
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/austin_import.html", "500"] # second argument is the height
+  hv-chart-2: ["charts/chicago_import.html", "500"] 
+  hv-chart-3: ["heatmap.html", "500"] 
+  hv-chart-4: ["charts/scatter_3d.html", "500"] 
+  hv-chart-5: ["charts/scatter_matrix.html", "500"] 
 toc: false
 toc_sticky: false
 ---
@@ -19,10 +21,26 @@ In this post, we run random forest models to forcast seasonal trip counts sepera
 
 ### Compare the feature importance between two cities
 
-- See the [raw source code]([https://raw.githubusercontent.com/MUSA-550-Fall-2021/github-pages-starter/main/_posts/2021-11-29-measles-charts.md](https://raw.githubusercontent.com/MUSA-550-Fall-2022/github-pages-starter/main/_posts/2019-04-13-measles-charts.md)) of this post for details on how these charts were embedded.
-- See the [lecture 13A slides](https://github.com/MUSA-550-Fall-2022/week-13/blob/main/lecture-13A.ipynb) for the code that produced these plots.
+<div id="hv-chart-1"></div>
+
+<div id="hv-chart-2"></div>
 
 ## What is the relation between features?
- Try k-means clusterig in chicago dataset to see the underlying structure
+
+###  Correlation matrix
+ 
+<div id="hv-chart-3"></div>
+
 ###  See the difference in cluster
 
+To test and explore, we run a k means model to determine the clusters inside the data and explore the cluster data characteristics.
+
+<div id="hv-chart-4"></div>
+
+From the model run results and pca analysis, the structure of cluster does exist inside the data, but the number of clusters may be relatively small, about two, in order to better understand the internal data characteristics of the clusters, we set the number of clusters to three, and plot the data of clusters respectively correlation matrix to explore the relationship between the data.
+
+<div id="hv-chart-5"></div>
+
+To test and explore, we run a k means model to determine the clusters inside the data and explore the cluster data characteristics.
+
+From the model run results and pca analysis, the structure of cluster does exist inside the data, but the number of clusters may be relatively small, about two, in order to better understand the internal data characteristics of the clusters, we set the number of clusters to three, and plot the data of clusters respectively correlation matrix to explore the relationship between the data.
