@@ -7,7 +7,7 @@ excerpt: "Understanding the key features which determine e-scooter usage."
 hv-loader:
   hv-chart-1: ["charts/austin_import.html", "500"] # second argument is the height
   hv-chart-2: ["charts/chicago_import.html", "500"] 
-  hv-chart-3: ["heatmap.html", "500"] 
+  hv-chart-3: ["charts/heatmap.html", "500"] 
   hv-chart-4: ["charts/scatter_3d.html", "500"] 
   hv-chart-5: ["charts/scatter_matrix.html", "500"] 
 toc: false
