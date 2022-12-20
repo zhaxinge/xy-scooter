@@ -4,6 +4,10 @@ date: 2022-12-18
 published: true
 tags: [dataviz, matplotlib]
 excerpt: "This is an exploratory data analysis on census and scooter trip data in Austin and Chicago."
+altair-loader:
+  altair-chart-1: "charts/Austin_income.json"
+  altair-chart-2: "charts/Austin_median_age.json"
+  altair-chart-3: "charts/Austin_mode.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -53,6 +57,13 @@ From previous studies, we can see that median age, transit mode choice, and hous
 
 ##  median age, transit mode choice, and household income in Chicago
 
-
-
 ##  median age, transit mode choice, and household income in Austin
+
+<div id="altair-chart-1"></div>
+
+<div id="altair-chart-2"></div>
+
+<div id="altair-chart-3"></div>
+
+
+
