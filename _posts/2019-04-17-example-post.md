@@ -1,11 +1,11 @@
 ---
 title: "What is happenning now in Austin and Chicago"
-date: 2022-12-18
+date: 2022-12-20
 published: true
-tags: [dataviz, matplotlib]
+tags: [dataviz, matplotlib,altair]
 excerpt: "This is an exploratory data analysis on census and scooter trip data in Austin and Chicago."
 altair-loader:
-  altair-chart-1: "income_age_chicago2.json"
+  altair-chart-1: "charts/income_age_chicago2.json"
   altair-chart-2: "charts/Austin_mode.json"
 toc: true
 toc_sticky: true
