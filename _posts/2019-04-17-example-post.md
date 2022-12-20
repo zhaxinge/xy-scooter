@@ -5,7 +5,6 @@ published: true
 tags: [dataviz, matplotlib]
 excerpt: "This is an exploratory data analysis on census and scooter trip data in Austin and Chicago."
 altair-loader:
-  altair-chart-1: "charts/Austin_age_income.json"
   altair-chart-2: "charts/Austin_mode.json"
 toc: true
 toc_sticky: true
@@ -54,11 +53,9 @@ Austin Weekly scooter usage
 
 From previous studies, we can see that median age, transit mode choice, and household income are most likely to influence whether people choose to use scooter to travel, so here we compare and analyze the context of median age and income in the two places.
 
-##  median age, transit mode choice, and household income in Chicago
+##  Age and transit mode choice in Chicago
 
-##  median age, transit mode choice, and household income in Austin
-
-<div id="altair-chart-1"></div>
+##  Age and transit mode choice in Austin
 
 <div id="altair-chart-2"></div>
 
